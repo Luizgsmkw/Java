@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=DescontoLanche
+comment1.params=no\ cl\ va\ ce
+comment1.target=DescontoLanche(java.lang.String,\ java.lang.String,\ double,\ java.lang.String)
+comment10.params=
+comment10.target=void\ exibeDados()
+comment11.params=
+comment11.target=void\ descontoEstudante()
+comment2.params=
+comment2.target=java.lang.String\ getNomeLanche()
+comment3.params=
+comment3.target=java.lang.String\ getCodigoLanche()
+comment4.params=
+comment4.target=double\ getValorLanche()
+comment5.params=
+comment5.target=java.lang.String\ getCodigoEstudante()
+comment6.params=novoNomeLanche
+comment6.target=void\ setNomeLanche(java.lang.String)
+comment7.params=novoCodigoLanche
+comment7.target=void\ setCodigoLanche(java.lang.String)
+comment8.params=novoValorLanche
+comment8.target=void\ setValorLanche(double)
+comment9.params=novoCodigoEstudante
+comment9.target=void\ setCodigoEstudante(java.lang.String)
+numComments=12

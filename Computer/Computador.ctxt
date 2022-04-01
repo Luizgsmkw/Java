@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Computador
+comment1.params=m\ P\ t\ n
+comment1.target=Computador(java.lang.String,\ java.lang.String,\ int,\ int)
+comment10.params=
+comment10.target=void\ exibeDados()
+comment2.params=
+comment2.target=java.lang.String\ getMarca()
+comment3.params=
+comment3.target=java.lang.String\ getProcessador()
+comment4.params=
+comment4.target=int\ getTempoUso()
+comment5.params=
+comment5.target=int\ getNumeroImobilizado()
+comment6.params=newMarca
+comment6.target=void\ setMarca(java.lang.String)
+comment7.params=newProcessador
+comment7.target=void\ setProcessador(java.lang.String)
+comment8.params=newTempoUso
+comment8.target=void\ setTempoUso(int)
+comment9.params=newNumeroImobilizado
+comment9.target=void\ setNumeroImobilizado(int)
+numComments=11
